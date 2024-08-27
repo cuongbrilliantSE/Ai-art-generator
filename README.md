@@ -23,9 +23,6 @@
 
 ### Companies
 
-#### \# companies
-* 8th Light https://8thlight.com/blog/
-
 #### A companies
 
 
@@ -106,9 +103,6 @@
 
 
 ### Individuals/Group Contributors
-
-#### \# individuals
-* 0xADADA https://0xadada.pub/
 
 #### A individuals
 
