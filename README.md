@@ -30,6 +30,7 @@
 
 
 #### B companies
+* BlackForestLabs https://blackforestlabs.ai/
 
 
 #### C companies
