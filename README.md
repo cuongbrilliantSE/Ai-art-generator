@@ -43,7 +43,7 @@
 
 
 #### G companies
-
+* Glif https://glif.app/glifs
 
 #### H companies
 
