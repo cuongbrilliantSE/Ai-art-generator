@@ -46,7 +46,7 @@
 * Glif https://glif.app/glifs
 
 #### H companies
-
+* Huggingface https://huggingface.co/black-forest-labs/FLUX.1-dev
 
 #### I companies
 
